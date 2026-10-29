@@ -1,0 +1,6 @@
+{
+  "name": "Apex $100 Startup Engine",
+  "description": "A high-performance venture engine and market telemetry hub engineered to achieve $100+/day in daily cashflow through micro-startups, algorithmic market radars, and First Principles execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
